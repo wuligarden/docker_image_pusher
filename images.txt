@@ -1,3 +1,4 @@
+canal/canal-server:latest
 eclipse-temurin:8-jre
 minio/minio
 mysql:5.7
@@ -7,7 +8,9 @@ mysql:8.0.37
 nacos/nacos-server
 nginx:1.25.5
 openjdk:8-jre
+portainer/portainer-ce:latest
 postgres:16.3
+rabbitmq:3.13-management
 redis:6-alpine
 redis:6.2.14
 yandex/clickhouse-server
