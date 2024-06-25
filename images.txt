@@ -1,3 +1,4 @@
+canal/canal-server:v1.1.7
 canal/canal-server:latest
 eclipse-temurin:8-jre
 minio/minio
