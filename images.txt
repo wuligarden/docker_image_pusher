@@ -1,7 +1,19 @@
 canal/canal-server:v1.1.7
 canal/canal-server:latest
 eclipse-temurin:8-jre
+elasticsearch:7.17.22
+elasticsearch:8.14.1
+elasticsearch:latest
+influxdb:2.7.6
+influxdb:latest
+kibana:7.17.22
+kibana:8.14.1
+kibana:latest
+logstash:7.17.22
+logstash:8.14.1
+logstash:latest
 minio/minio
+mongodb/mongodb-community-server:latest
 mysql:5.7
 mysql:5.7.37
 mysql:8
@@ -14,5 +26,7 @@ postgres:16.3
 rabbitmq:3.13-management
 redis:6-alpine
 redis:6.2.14
+pingcap/tidb:v6.5.10
+pingcap/tidb:latest
 yandex/clickhouse-server
 yandex/clickhouse-client
