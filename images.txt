@@ -26,6 +26,8 @@ projectairws/greenplum:latest
 rabbitmq:3.13-management
 redis:6-alpine
 redis:6.2.14
+ubuntu:20.04
+ubuntu:24.04
 pingcap/tidb:v6.5.10
 pingcap/tidb:latest
 yandex/clickhouse-server
